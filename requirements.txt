@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+yt-dlp
+ffmpeg-python
+Telegram-bot-token
+A stable Connection
+A stable server to Run the bot 24x7
