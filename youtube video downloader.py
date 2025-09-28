@@ -9,7 +9,7 @@ from telegram.ext import (
 # ----------------------------
 # CONFIGURATION
 # ----------------------------
-BOT_TOKEN = "8334790545:AAEYzJdvZT1M5rcpgCWD_sX08LtUXiKqd10"
+BOT_TOKEN = "8334790545:AAEYzJdvZT1M5rcpgCWD_sX0*************"
 FFMPEG_PATH = r"C:\ffmpeg\bin"
 DOWNLOAD_FOLDER = "downloads"
 
@@ -168,3 +168,4 @@ if __name__ == "__main__":
 
     print("Bot is running...")
     app.run_polling()
+
